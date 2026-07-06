@@ -1,1 +1,1 @@
-# Packers-and-movers-project-
+Served as the Scrum Master for a hands-on Agile practice project to develop a Packers & Movers Management System. Defined the product vision, created the product roadmap, translated business requirements into prioritized user stories, and maintained the product backlog. Facilitated end-to-end Scrum events, including Backlog Refinement, Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective, and Agile metrics generation using Jira and Miro.
